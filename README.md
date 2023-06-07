@@ -5,6 +5,7 @@ Activity 1: Personal Information
 This activity displays your personal information, including your name, registration number, and a photo.
 You can customize the layout of this activity to include any additional information you wish to share.
 The activity serves as the entry point of the app, showing your personal details when launched.
+
 Activity 2: Activity Callbacks
 
 This activity demonstrates four activity callbacks, which are methods called at different stages of the activity's lifecycle.
